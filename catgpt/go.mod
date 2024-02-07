@@ -1,4 +1,4 @@
-module example/catgpt
+module catgpt-1.0
 
 go 1.21.3
 
