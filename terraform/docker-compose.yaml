@@ -9,7 +9,7 @@ services:
     container_name: unifiedagent
     image: "cr.yandex/yc/unified-agent:latest"
     environment:
-      FOLDER_ID: "${folder_id}"
+      FOLDER_ID: "b1g665agp5589ntuqkr1"
     restart: always
     network_mode: "host"
     volumes:
